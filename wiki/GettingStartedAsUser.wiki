@@ -1,0 +1,12 @@
+#summary Getting Started with Narrator
+
+==Running the Latest Version of the Narrator Application== 
+
+ # Install the latest version of JDK  
+ # Download and run the Narrator Installer
+ # Run the Narrator.jar file in your Narrator Folder (the installer creates a shortcut in your Start Menu to do this)
+
+===Notes===
+
+ # The documentation file explains how to use the application, and how to change and edit prototypes  
+ # New Models can be saved as rdf files
