@@ -1,0 +1,15 @@
+#summary A list of people working on Narrator
+
+= Project Founders =
+  * [http://www.stanford.edu/~haymaker/ John Haymaker]
+  * [http://www.fuzzysymmetry.com/ Ben Suter]
+
+= Code Contributors =
+  * George Tang, summer 2008
+
+= Research, Testing, Power Users =
+  * Jen Tobias
+  * Reid Senescu
+  * Victor Gane
+  * Marc Ramsey
+  * Students at the [http://cife.stanford.edu/ Center for Integrated Facility Engineering, Stanford University]
