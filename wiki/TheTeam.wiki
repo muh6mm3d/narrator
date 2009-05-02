@@ -5,6 +5,7 @@
   * [http://www.fuzzysymmetry.com/ Ben Suter]
 
 = Code Contributors =
+  * Nuwan Senaratna
   * George Tang, summer 2008
 
 = Research, Testing, Power Users =
